@@ -8,4 +8,4 @@ Este projeto foi desenvolvido como parte do curso de Modelagem de dados UML (An�
 - **Java**: Linguagem de programação principal.
 - **Spring Boot**: Framework para criação de aplicações Java.
 - **Hibernate/JPA**: Frameworks para mapeamento objeto-relacional.
-
+- **H2 Database**: Banco de dados relacional.
